@@ -117,6 +117,7 @@
             this.toolStripButton2.Name = "toolStripButton2";
             this.toolStripButton2.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton2.Text = "toolStripButton2";
+            this.toolStripButton2.Click += new System.EventHandler(this.toolStripButton2_Click);
             // 
             // toolStripSeparator1
             // 
@@ -133,6 +134,7 @@
             this.toolStripButton1.Name = "toolStripButton1";
             this.toolStripButton1.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton1.Text = "toolStripButton1";
+            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
             // pnlMenu
             // 
@@ -167,7 +169,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::SistemaStockColombraro.Properties.Resources.buscar;
-            this.pictureBox2.Location = new System.Drawing.Point(424, 18);
+            this.pictureBox2.Location = new System.Drawing.Point(412, 15);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(45, 44);
             this.pictureBox2.TabIndex = 30;
@@ -176,14 +178,14 @@
             // textBuscador
             // 
             this.textBuscador.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.AllSystemSources;
-            this.textBuscador.BackColor = System.Drawing.Color.Snow;
+            this.textBuscador.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
             this.textBuscador.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBuscador.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBuscador.ForeColor = System.Drawing.Color.Black;
-            this.textBuscador.Location = new System.Drawing.Point(41, 18);
+            this.textBuscador.Location = new System.Drawing.Point(41, 28);
             this.textBuscador.Multiline = true;
             this.textBuscador.Name = "textBuscador";
-            this.textBuscador.Size = new System.Drawing.Size(377, 31);
+            this.textBuscador.Size = new System.Drawing.Size(365, 21);
             this.textBuscador.TabIndex = 29;
             // 
             // label15
@@ -439,6 +441,7 @@
             this.lblUserName.Size = new System.Drawing.Size(108, 21);
             this.lblUserName.TabIndex = 3;
             this.lblUserName.Text = " • UserName";
+         
             // 
             // lblEmail
             // 
@@ -688,7 +691,6 @@
         private System.Windows.Forms.LinkLabel linkLabel1;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Label lblHora;
-        private System.Windows.Forms.MonthCalendar monthCalendar1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnFacebook;
         private System.Windows.Forms.Button btnInstagram;
@@ -720,5 +722,6 @@
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.MonthCalendar monthCalendar1;
     }
 }

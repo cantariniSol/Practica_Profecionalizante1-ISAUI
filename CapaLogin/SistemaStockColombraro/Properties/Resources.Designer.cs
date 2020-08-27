@@ -143,6 +143,16 @@ namespace SistemaStockColombraro.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cashier_icon_icons_com_53629 {
+            get {
+                object obj = ResourceManager.GetObject("cashier_icon-icons.com_53629", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap codigo_de_barras {
             get {
                 object obj = ResourceManager.GetObject("codigo-de-barras", resourceCulture);
@@ -186,6 +196,16 @@ namespace SistemaStockColombraro.Properties {
         internal static System.Drawing.Bitmap error {
             get {
                 object obj = ResourceManager.GetObject("error", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap error1 {
+            get {
+                object obj = ResourceManager.GetObject("error1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -306,6 +326,16 @@ namespace SistemaStockColombraro.Properties {
         internal static System.Drawing.Bitmap minimize_icon_12 {
             get {
                 object obj = ResourceManager.GetObject("minimize-icon-12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap minimize_icon_121 {
+            get {
+                object obj = ResourceManager.GetObject("minimize-icon-121", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

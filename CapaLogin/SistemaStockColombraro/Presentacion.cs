@@ -36,8 +36,10 @@ namespace SistemaStockColombraro
             if(this.Opacity == 0)
             {
                 timer2.Stop();
-                this.Close();
-               
+                Menu m = new Menu();
+                this.Hide(); //Oculta el formulario Login.
+                m.ShowDialog();
+
             }
         }
 
@@ -45,6 +47,7 @@ namespace SistemaStockColombraro
         {
             this.Opacity = 0.0;
             timer1.Start();
+           
         }
     }
 }

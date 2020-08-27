@@ -48,18 +48,18 @@
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(174)))), ((int)(((byte)(39)))), ((int)(((byte)(50)))));
             this.panel1.Enabled = false;
             this.panel1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(174)))), ((int)(((byte)(39)))), ((int)(((byte)(50)))));
-            this.panel1.Location = new System.Drawing.Point(1, 2);
+            this.panel1.Location = new System.Drawing.Point(-9, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(608, 126);
+            this.panel1.Size = new System.Drawing.Size(627, 126);
             this.panel1.TabIndex = 1;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Enabled = false;
             this.pictureBox1.Image = global::SistemaStockColombraro.Properties.Resources.Logo2;
-            this.pictureBox1.Location = new System.Drawing.Point(118, 89);
+            this.pictureBox1.Location = new System.Drawing.Point(67, 92);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(387, 83);
+            this.pictureBox1.Size = new System.Drawing.Size(466, 100);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -67,11 +67,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Century Gothic", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Century Gothic", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.YellowGreen;
-            this.label1.Location = new System.Drawing.Point(159, 193);
+            this.label1.Location = new System.Drawing.Point(88, 202);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(311, 58);
+            this.label1.Size = new System.Drawing.Size(419, 78);
             this.label1.TabIndex = 2;
             this.label1.Text = "¡Bienvenido!";
             // 
@@ -95,10 +95,10 @@
             // lblUserName
             // 
             this.lblUserName.AutoSize = true;
-            this.lblUserName.Font = new System.Drawing.Font("Century Gothic", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUserName.Location = new System.Drawing.Point(214, 269);
+            this.lblUserName.Font = new System.Drawing.Font("Century Gothic", 36F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblUserName.Location = new System.Drawing.Point(203, 287);
             this.lblUserName.Name = "lblUserName";
-            this.lblUserName.Size = new System.Drawing.Size(188, 42);
+            this.lblUserName.Size = new System.Drawing.Size(260, 58);
             this.lblUserName.TabIndex = 3;
             this.lblUserName.Text = "Username";
             // 
@@ -125,7 +125,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
-            this.ClientSize = new System.Drawing.Size(610, 380);
+            this.ClientSize = new System.Drawing.Size(606, 380);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.lblUserName);
             this.Controls.Add(this.panel3);

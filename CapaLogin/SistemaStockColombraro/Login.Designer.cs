@@ -116,7 +116,7 @@
             this.labelLogin.Font = new System.Drawing.Font("Century Gothic", 26.25F);
             this.labelLogin.ForeColor = System.Drawing.Color.DimGray;
             this.labelLogin.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.labelLogin.Location = new System.Drawing.Point(438, 25);
+            this.labelLogin.Location = new System.Drawing.Point(445, 40);
             this.labelLogin.Name = "labelLogin";
             this.labelLogin.Size = new System.Drawing.Size(129, 42);
             this.labelLogin.TabIndex = 15;
