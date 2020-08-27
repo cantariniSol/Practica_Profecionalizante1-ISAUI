@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0699E5BE-18AC-453C-856C-33053A745F46}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SistemaStockColombraro</RootNamespace>
+    <AssemblyName>SistemaStockColombraro</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion.Designer.cs">
+      <DependentUpon>Presentacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion.resx">
+      <DependentUpon>Presentacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Footer-300x200.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize-icon-12.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a061d240355c3c1d96430ee6f86f1e3d.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1496676191-jd18_84601.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kindpng_1636340.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder-4-avatar-2754580_120522.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whatsapp.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whatsappChico.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whatsapp %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whatsapp %282%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gmail %282%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instagram %282%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whatsapp %282%291.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caja-registradora.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\base-de-datos %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\base-de-datos %283%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caja-registradora %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comprar %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entrega %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventario %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventario %281%291.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dinero %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventario %282%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iniciar-sesion %281%29 %282%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\proveedor %281%29 %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calidad %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\codigo-de-barras.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
