@@ -1,0 +1,25 @@
+E:\Escritorio\CapaLogin\SistemaStockColombraro\bin\Debug\SistemaStockColombraro.exe.config
+E:\Escritorio\CapaLogin\SistemaStockColombraro\bin\Debug\SistemaStockColombraro.exe
+E:\Escritorio\CapaLogin\SistemaStockColombraro\bin\Debug\SistemaStockColombraro.pdb
+E:\Escritorio\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro-Login.csprojAssemblyReference.cache
+E:\Escritorio\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro.Login.resources
+E:\Escritorio\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro.Presentacion.resources
+E:\Escritorio\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro.Properties.Resources.resources
+E:\Escritorio\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro-Login.csproj.GenerateResource.cache
+E:\Escritorio\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro-Login.csproj.CoreCompileInputs.cache
+E:\Escritorio\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro.exe
+E:\Escritorio\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro.pdb
+E:\Escritorio\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro.Menu.resources
+C:\Users\ramga\OneDrive\Escritorio\Práctica profesionalizante\Practica_Profecionalizante1-ISAUI\CapaLogin\SistemaStockColombraro\bin\Debug\SistemaStockColombraro.exe.config
+C:\Users\ramga\OneDrive\Escritorio\Práctica profesionalizante\Practica_Profecionalizante1-ISAUI\CapaLogin\SistemaStockColombraro\bin\Debug\SistemaStockColombraro.exe
+C:\Users\ramga\OneDrive\Escritorio\Práctica profesionalizante\Practica_Profecionalizante1-ISAUI\CapaLogin\SistemaStockColombraro\bin\Debug\SistemaStockColombraro.pdb
+C:\Users\ramga\OneDrive\Escritorio\Práctica profesionalizante\Practica_Profecionalizante1-ISAUI\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro-Login.csprojAssemblyReference.cache
+C:\Users\ramga\OneDrive\Escritorio\Práctica profesionalizante\Practica_Profecionalizante1-ISAUI\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro.Cap_Ventas.Form1.resources
+C:\Users\ramga\OneDrive\Escritorio\Práctica profesionalizante\Practica_Profecionalizante1-ISAUI\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro.Login.resources
+C:\Users\ramga\OneDrive\Escritorio\Práctica profesionalizante\Practica_Profecionalizante1-ISAUI\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro.Menu.resources
+C:\Users\ramga\OneDrive\Escritorio\Práctica profesionalizante\Practica_Profecionalizante1-ISAUI\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro.Presentacion.resources
+C:\Users\ramga\OneDrive\Escritorio\Práctica profesionalizante\Practica_Profecionalizante1-ISAUI\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro.Properties.Resources.resources
+C:\Users\ramga\OneDrive\Escritorio\Práctica profesionalizante\Practica_Profecionalizante1-ISAUI\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro-Login.csproj.GenerateResource.cache
+C:\Users\ramga\OneDrive\Escritorio\Práctica profesionalizante\Practica_Profecionalizante1-ISAUI\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro-Login.csproj.CoreCompileInputs.cache
+C:\Users\ramga\OneDrive\Escritorio\Práctica profesionalizante\Practica_Profecionalizante1-ISAUI\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro.exe
+C:\Users\ramga\OneDrive\Escritorio\Práctica profesionalizante\Practica_Profecionalizante1-ISAUI\CapaLogin\SistemaStockColombraro\obj\Debug\SistemaStockColombraro.pdb
