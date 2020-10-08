@@ -1,0 +1,15 @@
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.IU.InicioSesion.exe.config
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.IU.InicioSesion.exe
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.IU.InicioSesion.pdb
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.EntidadesDeNegocio.dll
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.LogicaDeNegocio.dll
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.EntidadesDeNegocio.pdb
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.LogicaDeNegocio.pdb
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csprojAssemblyReference.cache
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Properties.Resources.resources
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csproj.GenerateResource.cache
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csproj.CoreCompileInputs.cache
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csproj.CopyComplete
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.exe
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.pdb
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.InicioSesion.resources

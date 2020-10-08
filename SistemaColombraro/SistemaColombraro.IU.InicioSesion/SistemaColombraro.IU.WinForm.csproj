@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C7C4C2A4-0171-47F0-B8ED-0A8C11B2587D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SistemaColombraro.IU.InicioSesion</RootNamespace>
+    <AssemblyName>SistemaColombraro.IU.InicioSesion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bienvenida.Designer.cs">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CambioDeContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambioDeContraseña.Designer.cs">
+      <DependentUpon>CambioDeContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InicioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioSesion.Designer.cs">
+      <DependentUpon>InicioSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manu.Designer.cs">
+      <DependentUpon>Manu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Bienvenida.resx">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CambioDeContraseña.resx">
+      <DependentUpon>CambioDeContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioSesion.resx">
+      <DependentUpon>InicioSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manu.resx">
+      <DependentUpon>Manu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaColombraro.EntidadesDeNegocio\SistemaColombraro.EntidadesDeNegocio.csproj">
+      <Project>{1e113aed-e8c7-4f56-8f72-861a9a820252}</Project>
+      <Name>SistemaColombraro.EntidadesDeNegocio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SistemaColombraro.LogicaDeNegocio\SistemaColombraro.LogicaDeNegocio.csproj">
+      <Project>{ec73a67d-7d2c-41c9-aee3-1acddfaaa970}</Project>
+      <Name>SistemaColombraro.LogicaDeNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Footer-300x200.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menos.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menos25px.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cerrar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carita Feliz de Bienvenida.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\informacion.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ventas72px.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-0021-parcel_102770.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-0006-paymentreceipt_102787 %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bag_106641.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grafico72px.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cont.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
