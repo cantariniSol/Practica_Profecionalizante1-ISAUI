@@ -33,30 +33,30 @@
             this.btnCerrarSesion = new System.Windows.Forms.Button();
             this.lblRol = new System.Windows.Forms.Label();
             this.lblUser = new System.Windows.Forms.Label();
-            this.btnImgUsuario = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
-            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
-            this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
             this.toolStripLabel1 = new System.Windows.Forms.ToolStripLabel();
-            this.toolStripDropDownButton1 = new System.Windows.Forms.ToolStripDropDownButton();
-            this.contactoDeLosDesarrolladoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.manualDelSistemaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lblVentas = new System.Windows.Forms.Label();
             this.lblProductos = new System.Windows.Forms.Label();
             this.lblClientes = new System.Windows.Forms.Label();
             this.lblCompras = new System.Windows.Forms.Label();
             this.lblProveedores = new System.Windows.Forms.Label();
             this.lblUsuarios = new System.Windows.Forms.Label();
+            this.lblRerporte = new System.Windows.Forms.Label();
+            this.btnReportes = new System.Windows.Forms.Button();
             this.btnUsuario = new System.Windows.Forms.Button();
             this.btnProveedores = new System.Windows.Forms.Button();
             this.btnVentas = new System.Windows.Forms.Button();
             this.btnClientes = new System.Windows.Forms.Button();
             this.btnProductos = new System.Windows.Forms.Button();
+            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripDropDownButton1 = new System.Windows.Forms.ToolStripDropDownButton();
+            this.contactoDeLosDesarrolladoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.manualDelSistemaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.btnCompras = new System.Windows.Forms.Button();
-            this.btnReportes = new System.Windows.Forms.Button();
-            this.lblRerporte = new System.Windows.Forms.Label();
+            this.btnImgUsuario = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -113,20 +113,6 @@
             this.lblUser.TabIndex = 4;
             this.lblUser.Text = "Usuario";
             // 
-            // btnImgUsuario
-            // 
-            this.btnImgUsuario.FlatAppearance.BorderSize = 0;
-            this.btnImgUsuario.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
-            this.btnImgUsuario.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(188)))), ((int)(((byte)(145)))), ((int)(((byte)(136)))));
-            this.btnImgUsuario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnImgUsuario.Image = ((System.Drawing.Image)(resources.GetObject("btnImgUsuario.Image")));
-            this.btnImgUsuario.Location = new System.Drawing.Point(67, 184);
-            this.btnImgUsuario.Name = "btnImgUsuario";
-            this.btnImgUsuario.Size = new System.Drawing.Size(124, 140);
-            this.btnImgUsuario.TabIndex = 3;
-            this.btnImgUsuario.Tag = "Botón de imagen de usuario";
-            this.btnImgUsuario.UseVisualStyleBackColor = true;
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -154,34 +140,11 @@
             this.toolStrip1.TabIndex = 2;
             this.toolStrip1.Text = "toolStrip1";
             // 
-            // toolStripButton1
-            // 
-            this.toolStripButton1.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
-            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButton1.Image = global::SistemaColombraro.IU.InicioSesion.Properties.Resources.Cerrar;
-            this.toolStripButton1.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
-            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripButton1.Name = "toolStripButton1";
-            this.toolStripButton1.Size = new System.Drawing.Size(29, 29);
-            this.toolStripButton1.Tag = "Cerrar";
-            this.toolStripButton1.Text = "toolStripButton1";
-            // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
             this.toolStripSeparator1.Name = "toolStripSeparator1";
             this.toolStripSeparator1.Size = new System.Drawing.Size(6, 32);
-            // 
-            // toolStripButton2
-            // 
-            this.toolStripButton2.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
-            this.toolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButton2.Image = global::SistemaColombraro.IU.InicioSesion.Properties.Resources.menos25px;
-            this.toolStripButton2.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
-            this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripButton2.Name = "toolStripButton2";
-            this.toolStripButton2.Size = new System.Drawing.Size(29, 29);
-            this.toolStripButton2.Text = "toolStripButton2";
             // 
             // toolStripLabel1
             // 
@@ -192,34 +155,6 @@
             this.toolStripLabel1.Name = "toolStripLabel1";
             this.toolStripLabel1.Size = new System.Drawing.Size(63, 29);
             this.toolStripLabel1.Text = "Menú";
-            // 
-            // toolStripDropDownButton1
-            // 
-            this.toolStripDropDownButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripDropDownButton1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.contactoDeLosDesarrolladoresToolStripMenuItem,
-            this.manualDelSistemaToolStripMenuItem});
-            this.toolStripDropDownButton1.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.toolStripDropDownButton1.Image = global::SistemaColombraro.IU.InicioSesion.Properties.Resources.informacion;
-            this.toolStripDropDownButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripDropDownButton1.Name = "toolStripDropDownButton1";
-            this.toolStripDropDownButton1.Size = new System.Drawing.Size(29, 29);
-            this.toolStripDropDownButton1.Tag = "Información";
-            this.toolStripDropDownButton1.Text = "toolStripDropDownButton1";
-            // 
-            // contactoDeLosDesarrolladoresToolStripMenuItem
-            // 
-            this.contactoDeLosDesarrolladoresToolStripMenuItem.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.contactoDeLosDesarrolladoresToolStripMenuItem.Name = "contactoDeLosDesarrolladoresToolStripMenuItem";
-            this.contactoDeLosDesarrolladoresToolStripMenuItem.Size = new System.Drawing.Size(313, 24);
-            this.contactoDeLosDesarrolladoresToolStripMenuItem.Text = "Contacto de los desarrolladores";
-            // 
-            // manualDelSistemaToolStripMenuItem
-            // 
-            this.manualDelSistemaToolStripMenuItem.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.manualDelSistemaToolStripMenuItem.Name = "manualDelSistemaToolStripMenuItem";
-            this.manualDelSistemaToolStripMenuItem.Size = new System.Drawing.Size(313, 24);
-            this.manualDelSistemaToolStripMenuItem.Text = "Manual del sistema";
             // 
             // lblVentas
             // 
@@ -288,8 +223,35 @@
             this.lblUsuarios.TabIndex = 14;
             this.lblUsuarios.Text = "Usuarios";
             // 
+            // lblRerporte
+            // 
+            this.lblRerporte.AutoSize = true;
+            this.lblRerporte.Font = new System.Drawing.Font("Franklin Gothic Medium", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblRerporte.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(25)))), ((int)(((byte)(26)))), ((int)(((byte)(25)))));
+            this.lblRerporte.Location = new System.Drawing.Point(527, 263);
+            this.lblRerporte.Name = "lblRerporte";
+            this.lblRerporte.Size = new System.Drawing.Size(68, 20);
+            this.lblRerporte.TabIndex = 16;
+            this.lblRerporte.Text = "Reportes";
+            // 
+            // btnReportes
+            // 
+            this.btnReportes.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnReportes.FlatAppearance.BorderSize = 0;
+            this.btnReportes.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
+            this.btnReportes.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(188)))), ((int)(((byte)(145)))), ((int)(((byte)(136)))));
+            this.btnReportes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnReportes.Image = ((System.Drawing.Image)(resources.GetObject("btnReportes.Image")));
+            this.btnReportes.Location = new System.Drawing.Point(505, 176);
+            this.btnReportes.Name = "btnReportes";
+            this.btnReportes.Size = new System.Drawing.Size(100, 100);
+            this.btnReportes.TabIndex = 4;
+            this.btnReportes.Tag = "Botón de reportes";
+            this.btnReportes.UseVisualStyleBackColor = true;
+            // 
             // btnUsuario
             // 
+            this.btnUsuario.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnUsuario.FlatAppearance.BorderSize = 0;
             this.btnUsuario.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnUsuario.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(188)))), ((int)(((byte)(145)))), ((int)(((byte)(136)))));
@@ -304,6 +266,7 @@
             // 
             // btnProveedores
             // 
+            this.btnProveedores.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnProveedores.FlatAppearance.BorderSize = 0;
             this.btnProveedores.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnProveedores.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(188)))), ((int)(((byte)(145)))), ((int)(((byte)(136)))));
@@ -318,6 +281,7 @@
             // 
             // btnVentas
             // 
+            this.btnVentas.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnVentas.FlatAppearance.BorderSize = 0;
             this.btnVentas.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnVentas.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(188)))), ((int)(((byte)(145)))), ((int)(((byte)(136)))));
@@ -332,6 +296,7 @@
             // 
             // btnClientes
             // 
+            this.btnClientes.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnClientes.FlatAppearance.BorderSize = 0;
             this.btnClientes.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnClientes.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(188)))), ((int)(((byte)(145)))), ((int)(((byte)(136)))));
@@ -346,6 +311,7 @@
             // 
             // btnProductos
             // 
+            this.btnProductos.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnProductos.FlatAppearance.BorderSize = 0;
             this.btnProductos.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnProductos.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(188)))), ((int)(((byte)(145)))), ((int)(((byte)(136)))));
@@ -358,8 +324,60 @@
             this.btnProductos.Tag = "Botón de productos";
             this.btnProductos.UseVisualStyleBackColor = true;
             // 
+            // toolStripButton1
+            // 
+            this.toolStripButton1.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
+            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton1.Image = global::SistemaColombraro.IU.InicioSesion.Properties.Resources.Cerrar;
+            this.toolStripButton1.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
+            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton1.Name = "toolStripButton1";
+            this.toolStripButton1.Size = new System.Drawing.Size(29, 29);
+            this.toolStripButton1.Tag = "Cerrar";
+            this.toolStripButton1.Text = "toolStripButton1";
+            // 
+            // toolStripButton2
+            // 
+            this.toolStripButton2.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
+            this.toolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton2.Image = global::SistemaColombraro.IU.InicioSesion.Properties.Resources.menos25px;
+            this.toolStripButton2.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
+            this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton2.Name = "toolStripButton2";
+            this.toolStripButton2.Size = new System.Drawing.Size(29, 29);
+            this.toolStripButton2.Text = "toolStripButton2";
+            // 
+            // toolStripDropDownButton1
+            // 
+            this.toolStripDropDownButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripDropDownButton1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.contactoDeLosDesarrolladoresToolStripMenuItem,
+            this.manualDelSistemaToolStripMenuItem});
+            this.toolStripDropDownButton1.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.toolStripDropDownButton1.Image = global::SistemaColombraro.IU.InicioSesion.Properties.Resources.informacion;
+            this.toolStripDropDownButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripDropDownButton1.Name = "toolStripDropDownButton1";
+            this.toolStripDropDownButton1.Size = new System.Drawing.Size(29, 29);
+            this.toolStripDropDownButton1.Tag = "Información";
+            this.toolStripDropDownButton1.Text = "toolStripDropDownButton1";
+            // 
+            // contactoDeLosDesarrolladoresToolStripMenuItem
+            // 
+            this.contactoDeLosDesarrolladoresToolStripMenuItem.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.contactoDeLosDesarrolladoresToolStripMenuItem.Name = "contactoDeLosDesarrolladoresToolStripMenuItem";
+            this.contactoDeLosDesarrolladoresToolStripMenuItem.Size = new System.Drawing.Size(313, 24);
+            this.contactoDeLosDesarrolladoresToolStripMenuItem.Text = "Contacto de los desarrolladores";
+            // 
+            // manualDelSistemaToolStripMenuItem
+            // 
+            this.manualDelSistemaToolStripMenuItem.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.manualDelSistemaToolStripMenuItem.Name = "manualDelSistemaToolStripMenuItem";
+            this.manualDelSistemaToolStripMenuItem.Size = new System.Drawing.Size(313, 24);
+            this.manualDelSistemaToolStripMenuItem.Text = "Manual del sistema";
+            // 
             // btnCompras
             // 
+            this.btnCompras.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCompras.FlatAppearance.BorderSize = 0;
             this.btnCompras.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnCompras.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(188)))), ((int)(((byte)(145)))), ((int)(((byte)(136)))));
@@ -372,30 +390,19 @@
             this.btnCompras.Tag = "Botón de compras";
             this.btnCompras.UseVisualStyleBackColor = true;
             // 
-            // btnReportes
+            // btnImgUsuario
             // 
-            this.btnReportes.FlatAppearance.BorderSize = 0;
-            this.btnReportes.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
-            this.btnReportes.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(188)))), ((int)(((byte)(145)))), ((int)(((byte)(136)))));
-            this.btnReportes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnReportes.Image = ((System.Drawing.Image)(resources.GetObject("btnReportes.Image")));
-            this.btnReportes.Location = new System.Drawing.Point(505, 176);
-            this.btnReportes.Name = "btnReportes";
-            this.btnReportes.Size = new System.Drawing.Size(100, 100);
-            this.btnReportes.TabIndex = 4;
-            this.btnReportes.Tag = "Botón de reportes";
-            this.btnReportes.UseVisualStyleBackColor = true;
-            // 
-            // lblRerporte
-            // 
-            this.lblRerporte.AutoSize = true;
-            this.lblRerporte.Font = new System.Drawing.Font("Franklin Gothic Medium", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRerporte.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(25)))), ((int)(((byte)(26)))), ((int)(((byte)(25)))));
-            this.lblRerporte.Location = new System.Drawing.Point(527, 263);
-            this.lblRerporte.Name = "lblRerporte";
-            this.lblRerporte.Size = new System.Drawing.Size(68, 20);
-            this.lblRerporte.TabIndex = 16;
-            this.lblRerporte.Text = "Reportes";
+            this.btnImgUsuario.FlatAppearance.BorderSize = 0;
+            this.btnImgUsuario.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
+            this.btnImgUsuario.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(188)))), ((int)(((byte)(145)))), ((int)(((byte)(136)))));
+            this.btnImgUsuario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnImgUsuario.Image = ((System.Drawing.Image)(resources.GetObject("btnImgUsuario.Image")));
+            this.btnImgUsuario.Location = new System.Drawing.Point(67, 184);
+            this.btnImgUsuario.Name = "btnImgUsuario";
+            this.btnImgUsuario.Size = new System.Drawing.Size(124, 140);
+            this.btnImgUsuario.TabIndex = 3;
+            this.btnImgUsuario.Tag = "Botón de imagen de usuario";
+            this.btnImgUsuario.UseVisualStyleBackColor = true;
             // 
             // Manu
             // 
@@ -418,6 +425,7 @@
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.btnCompras);
             this.Controls.Add(this.panel1);
+            this.Cursor = System.Windows.Forms.Cursors.Hand;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Manu";

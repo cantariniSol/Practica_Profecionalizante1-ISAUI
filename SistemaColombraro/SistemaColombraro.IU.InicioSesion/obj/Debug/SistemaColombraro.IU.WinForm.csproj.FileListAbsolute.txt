@@ -13,3 +13,7 @@ E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaCo
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.exe
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.pdb
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.InicioSesion.resources
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Bienvenida.resources
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.CambioDeContraseña.resources
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Manu.resources
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Ventas.resources
