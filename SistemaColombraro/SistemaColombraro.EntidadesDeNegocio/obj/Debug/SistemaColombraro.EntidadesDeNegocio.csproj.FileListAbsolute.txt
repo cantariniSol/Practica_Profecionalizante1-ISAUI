@@ -4,3 +4,9 @@ E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaCo
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\obj\Debug\SistemaColombraro.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\obj\Debug\SistemaColombraro.EntidadesDeNegocio.dll
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\obj\Debug\SistemaColombraro.EntidadesDeNegocio.pdb
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\bin\Debug\SistemaColombraro.EntidadesDeNegocio.dll
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\bin\Debug\SistemaColombraro.EntidadesDeNegocio.pdb
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\obj\Debug\SistemaColombraro.EntidadesDeNegocio.csprojAssemblyReference.cache
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\obj\Debug\SistemaColombraro.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\obj\Debug\SistemaColombraro.EntidadesDeNegocio.dll
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\obj\Debug\SistemaColombraro.EntidadesDeNegocio.pdb

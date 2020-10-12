@@ -7,3 +7,12 @@ E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaCo
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.AccesoDatos\obj\Debug\SistemaColombraro.AccesoDatos.csproj.CopyComplete
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.AccesoDatos\obj\Debug\SistemaColombraro.AccesoDatos.dll
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.AccesoDatos\obj\Debug\SistemaColombraro.AccesoDatos.pdb
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.AccesoDatos\bin\Debug\SistemaColombraro.AccesoDatos.dll
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.AccesoDatos\bin\Debug\SistemaColombraro.AccesoDatos.pdb
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.AccesoDatos\bin\Debug\SistemaColombraro.EntidadesDeNegocio.dll
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.AccesoDatos\bin\Debug\SistemaColombraro.EntidadesDeNegocio.pdb
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.AccesoDatos\obj\Debug\SistemaColombraro.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.AccesoDatos\obj\Debug\SistemaColombraro.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.AccesoDatos\obj\Debug\SistemaColombraro.AccesoDatos.csproj.CopyComplete
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.AccesoDatos\obj\Debug\SistemaColombraro.AccesoDatos.dll
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.AccesoDatos\obj\Debug\SistemaColombraro.AccesoDatos.pdb
