@@ -10,26 +10,11 @@ using System.Windows.Forms;
 
 namespace SistemaColombraro.IU.InicioSesion
 {
-    public partial class Clientes : Form
+    public partial class Usuarios : Form
     {
-        public Clientes()
+        public Usuarios()
         {
             InitializeComponent();
-        }
-
-        private void label18_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label47_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel4_Paint(object sender, PaintEventArgs e)
-        {
-
         }
     }
 }

@@ -36,3 +36,5 @@ C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecion
 C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csproj.CopyComplete
 C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.exe
 C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.pdb
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Clientes.resources
+C:\Users\ramga\OneDrive\Escritorio\Practica Profesionalizante\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Usuarios.resources
