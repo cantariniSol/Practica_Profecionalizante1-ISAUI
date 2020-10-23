@@ -73,6 +73,36 @@ namespace SistemaColombraro.IU.InicioSesion.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap atencion {
+            get {
+                object obj = ResourceManager.GetObject("atencion", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap atención02 {
+            get {
+                object obj = ResourceManager.GetObject("atención02", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap atención021 {
+            get {
+                object obj = ResourceManager.GetObject("atención021", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap avatar50px__1_ {
             get {
                 object obj = ResourceManager.GetObject("avatar50px (1)", resourceCulture);
@@ -126,6 +156,16 @@ namespace SistemaColombraro.IU.InicioSesion.Properties {
         internal static System.Drawing.Bitmap busqueda50px {
             get {
                 object obj = ResourceManager.GetObject("busqueda50px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap busqueda50px1 {
+            get {
+                object obj = ResourceManager.GetObject("busqueda50px1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -276,6 +316,36 @@ namespace SistemaColombraro.IU.InicioSesion.Properties {
         internal static System.Drawing.Bitmap reporte50px {
             get {
                 object obj = ResourceManager.GetObject("reporte50px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ventas50px {
+            get {
+                object obj = ResourceManager.GetObject("ventas50px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ventas50px1 {
+            get {
+                object obj = ResourceManager.GetObject("ventas50px1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ventas50px2 {
+            get {
+                object obj = ResourceManager.GetObject("ventas50px2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

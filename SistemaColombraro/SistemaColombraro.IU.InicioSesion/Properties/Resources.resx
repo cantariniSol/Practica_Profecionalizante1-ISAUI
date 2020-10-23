@@ -118,76 +118,97 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="bag_106641" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bag_106641.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="compras50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\compras50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="menos" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\menos.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Cont" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Cont.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="grafico72px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\grafico72px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cliente 50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cliente 50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="avatarMujer50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\avatarMujer50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="menos25px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\menos25px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="avatar50px (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\avatar50px (1).ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ventas72px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ventas72px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Footer-300x200" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Footer-300x200.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="proveedores50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\proveedores50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="avatar64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\avatar64px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="informacion" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\informacion.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="error" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\error.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="atencion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\atencion.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Cerrar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Cerrar.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="icon-0006-paymentreceipt_102787 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon-0006-paymentreceipt_102787 (1).ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Carita Feliz de Bienvenida" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Carita Feliz de Bienvenida.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="compras50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\compras50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="reporte50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\reporte50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="cliente 50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cliente 50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="backarrow_80933" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\backarrow_80933.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Carita Feliz de Bienvenida" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Carita Feliz de Bienvenida.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="volver" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\volver.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ventas50px1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ventas50px1.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="busqueda50px1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\busqueda50px1.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="error" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\error.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="avatar50px (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\avatar50px (1).ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cont" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cont.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="proveedores50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\proveedores50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="atención02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\atención02.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grafico72px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grafico72px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icon-0006-paymentreceipt_102787 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icon-0006-paymentreceipt_102787 (1).ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menos25px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menos25px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menos.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bag_106641" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bag_106641.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reporte50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reporte50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="avatarMujer50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\avatarMujer50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ventas50px2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ventas50px2.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="avatar64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\avatar64px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Footer-300x200" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Footer-300x200.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ventas50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ventas50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="icon-0021-parcel_102770" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon-0021-parcel_102770.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="busqueda50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\busqueda50px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="informacion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\informacion.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ventas72px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ventas72px.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="atención021" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\atención021.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
