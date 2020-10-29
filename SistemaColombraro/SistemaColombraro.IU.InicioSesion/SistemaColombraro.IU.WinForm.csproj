@@ -180,10 +180,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SistemaColombraro.EntidadesDeNegocio\SistemaColombraro.EntidadesDeNegocio.csproj">
-      <Project>{1e113aed-e8c7-4f56-8f72-861a9a820252}</Project>
-      <Name>SistemaColombraro.EntidadesDeNegocio</Name>
-    </ProjectReference>
     <ProjectReference Include="..\SistemaColombraro.LogicaDeNegocio\SistemaColombraro.LogicaDeNegocio.csproj">
       <Project>{ec73a67d-7d2c-41c9-aee3-1acddfaaa970}</Project>
       <Name>SistemaColombraro.LogicaDeNegocio</Name>

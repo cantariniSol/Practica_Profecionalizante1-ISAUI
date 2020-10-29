@@ -41,13 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CD_Conexion.cs" />
+    <Compile Include="CD_Productos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\SistemaColombraro.EntidadesDeNegocio\SistemaColombraro.EntidadesDeNegocio.csproj">
-      <Project>{1e113aed-e8c7-4f56-8f72-861a9a820252}</Project>
-      <Name>SistemaColombraro.EntidadesDeNegocio</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

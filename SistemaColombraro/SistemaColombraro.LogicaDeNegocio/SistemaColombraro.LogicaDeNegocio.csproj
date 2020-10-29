@@ -41,16 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CN_Productos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SistemaColombraro.AccesoDatos\SistemaColombraro.AccesoDatos.csproj">
       <Project>{a45ab12a-b302-458a-89eb-d77f07062295}</Project>
       <Name>SistemaColombraro.AccesoDatos</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\SistemaColombraro.EntidadesDeNegocio\SistemaColombraro.EntidadesDeNegocio.csproj">
-      <Project>{1e113aed-e8c7-4f56-8f72-861a9a820252}</Project>
-      <Name>SistemaColombraro.EntidadesDeNegocio</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

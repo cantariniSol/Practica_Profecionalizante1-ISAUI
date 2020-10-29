@@ -9,3 +9,12 @@ E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaCo
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.LogicaDeNegocio\obj\Debug\SistemaColombraro.LogicaDeNegocio.csproj.CopyComplete
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.LogicaDeNegocio\obj\Debug\SistemaColombraro.LogicaDeNegocio.dll
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.LogicaDeNegocio\obj\Debug\SistemaColombraro.LogicaDeNegocio.pdb
+C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.LogicaDeNegocio\bin\Debug\SistemaColombraro.LogicaDeNegocio.dll
+C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.LogicaDeNegocio\bin\Debug\SistemaColombraro.LogicaDeNegocio.pdb
+C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.LogicaDeNegocio\bin\Debug\SistemaColombraro.AccesoDatos.dll
+C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.LogicaDeNegocio\bin\Debug\SistemaColombraro.AccesoDatos.pdb
+C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.LogicaDeNegocio\obj\Debug\SistemaColombraro.LogicaDeNegocio.csprojAssemblyReference.cache
+C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.LogicaDeNegocio\obj\Debug\SistemaColombraro.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.LogicaDeNegocio\obj\Debug\SistemaColombraro.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.LogicaDeNegocio\obj\Debug\SistemaColombraro.LogicaDeNegocio.dll
+C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.LogicaDeNegocio\obj\Debug\SistemaColombraro.LogicaDeNegocio.pdb
