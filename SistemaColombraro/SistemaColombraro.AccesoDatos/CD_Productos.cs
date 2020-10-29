@@ -39,6 +39,7 @@ namespace SistemaColombraro.AccesoDatos
             // comando.ExecuteNonQuery();
 
             //Con funciones.
+
             comando.Connection = conexion.AbrirConexion();
             comando.CommandText = "InsetarProducto";
             comando.CommandType = CommandType.StoredProcedure;
@@ -48,9 +49,12 @@ namespace SistemaColombraro.AccesoDatos
             comando.Parameters.AddWithValue("@categoria", categoria);
             comando.Parameters.AddWithValue("@stock", stock);
             comando.ExecuteNonQuery();
+            comando.Parameters.Clear();
+            conexion.CerrarConexion();
         }
         public void Editar(string categoria, string nombre, int precio, int stock, int codigo, int articulo)
         {
+                
                 comando.Connection = conexion.AbrirConexion();
                 comando.CommandText = "EditarProductos";
                 comando.CommandType = CommandType.StoredProcedure;
@@ -66,6 +70,17 @@ namespace SistemaColombraro.AccesoDatos
 
             }
 
+        public void Eliminar(int codigo)
+        {
+            comando.Connection = conexion.AbrirConexion();
+            comando.CommandText = "EliminarProductos";
+            comando.CommandType = CommandType.StoredProcedure;
+            comando.Parameters.AddWithValue("@codigo", codigo);
+            comando.ExecuteNonQuery();
+            comando.Parameters.Clear();
+            conexion.CerrarConexion();
         }
+
+    }
 
 }

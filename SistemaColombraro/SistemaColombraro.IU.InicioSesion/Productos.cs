@@ -16,12 +16,14 @@ namespace SistemaColombraro.IU.InicioSesion
 
         CN_Productos objetoCN = new CN_Productos();
         private string articulo = null;
+        private string codigo = null;
         private bool Editar = false;
         
 
         public Productos()
         {
             InitializeComponent();
+            timer1.Enabled = true;
         }
 
         private void Productos_Load(object sender, EventArgs e)
@@ -55,6 +57,7 @@ namespace SistemaColombraro.IU.InicioSesion
                     objetoCN.InsertarPRod( txtCategoria.Text, txtNombre.Text, txtPrecio.Text, txtStock.Text, txtCodigo.Text);
                     MessageBox.Show("Se ha insertado correctamente el nuevo producto");
                     MostrarProductos();
+                    limpiarForm();
                     
                 }
 
@@ -63,6 +66,7 @@ namespace SistemaColombraro.IU.InicioSesion
                     MessageBox.Show("No se ha podido insertar el nuevo producto: " + ex);
                 }
             }
+
             if (Editar == true)
             {
                 try
@@ -70,6 +74,7 @@ namespace SistemaColombraro.IU.InicioSesion
                     objetoCN.EditarProd(txtCategoria.Text, txtNombre.Text, txtPrecio.Text, txtStock.Text, txtCodigo.Text, articulo);
                     MessageBox.Show("Se ha editado correctamente el producto");
                     MostrarProductos();
+                    limpiarForm();
                     Editar = false;
                 }
                 catch (Exception ex)
@@ -92,13 +97,79 @@ namespace SistemaColombraro.IU.InicioSesion
                 txtCategoria.Text = dataGridView1.CurrentRow.Cells["categoria"].Value.ToString();
                 txtPrecio.Text = dataGridView1.CurrentRow.Cells["precio"].Value.ToString();
                 txtStock.Text = dataGridView1.CurrentRow.Cells["stock"].Value.ToString();
+                txtCodigo.Text = dataGridView1.CurrentRow.Cells["codigo"].Value.ToString();
                 articulo = dataGridView1.CurrentRow.Cells["articulo"].Value.ToString(); 
             }
             else
                 MessageBox.Show("seleccione una fila por favor");
         }
+        private void limpiarForm()
+        {
+            txtCodigo.Clear();
+            txtCategoria.Clear();
+            txtNombre.Text = "";
+            txtPrecio.Clear();
+            txtStock.Clear();
 
-        
+        }
+       
+
+        private void btnEliminar_Click_1(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                codigo = dataGridView1.CurrentRow.Cells["codigo"].Value.ToString();
+                objetoCN.EliminarPRod(codigo);
+                MessageBox.Show("Se ha eliminado el producto correctamente");
+                MostrarProductos();
+            }
+            else
+                MessageBox.Show("Seleccione una fila por favor");
+        }
+
+        private void toolStripButton2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            lblHora.Text = DateTime.Now.ToString("hh:mm:ss");
+            lblHora.Refresh();
+            lblFecha.Text = DateTime.Now.ToLongDateString();
+            lblFecha.Refresh();
+        }
+
+        private void txtCodigo_Click(object sender, EventArgs e)
+        {
+            txtCodigo.Text = "";
+        }
+
+        private void txtCategoria_TextChanged(object sender, EventArgs e)
+        {
+            txtCategoria.Text = "";
+        }
+
+        private void txtNombre_TextChanged(object sender, EventArgs e)
+        {
+            txtNombre.Text = "";
+        }
+
+        private void txtPrecio_TextChanged(object sender, EventArgs e)
+        {
+            txtPrecio.Text = "";
+        }
+
+        private void txtStock_TextChanged(object sender, EventArgs e)
+        {
+            txtStock.Text = "";
+        }
     }
+    
 }
 

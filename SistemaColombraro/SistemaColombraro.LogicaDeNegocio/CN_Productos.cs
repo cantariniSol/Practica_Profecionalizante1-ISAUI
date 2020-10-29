@@ -27,5 +27,10 @@ namespace SistemaColombraro.LogicaDeNegocio
         {
             objetoCD.Editar(categoria, nombre, Convert.ToInt32(precio), Convert.ToInt32(stock), Convert.ToInt32(codigo), Convert.ToInt32(articulo));
         }
+        public void EliminarPRod(string codigo)
+        {
+            objetoCD.Eliminar(Convert.ToInt32(codigo));
+        }
+
     }
 }
