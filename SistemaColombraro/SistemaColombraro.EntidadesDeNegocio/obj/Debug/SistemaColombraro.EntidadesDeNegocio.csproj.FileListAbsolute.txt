@@ -1,6 +1,0 @@
-E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\bin\Debug\SistemaColombraro.EntidadesDeNegocio.dll
-E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\bin\Debug\SistemaColombraro.EntidadesDeNegocio.pdb
-E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\obj\Debug\SistemaColombraro.EntidadesDeNegocio.csprojAssemblyReference.cache
-E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\obj\Debug\SistemaColombraro.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
-E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\obj\Debug\SistemaColombraro.EntidadesDeNegocio.dll
-E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.EntidadesDeNegocio\obj\Debug\SistemaColombraro.EntidadesDeNegocio.pdb
