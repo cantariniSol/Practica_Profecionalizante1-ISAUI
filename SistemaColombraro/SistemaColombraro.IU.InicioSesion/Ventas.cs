@@ -16,14 +16,21 @@ namespace SistemaColombraro.IU.InicioSesion
         {
             InitializeComponent();
         }
+             
 
-        
-
-        private void panel9_Paint(object sender, PaintEventArgs e)
+        private void button12_Click(object sender, EventArgs e)
         {
-
+            Menu m = new Menu();
+            this.Hide();
+            m.ShowDialog();
         }
 
-        
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            lblHora.Text = DateTime.Now.ToString("hh:mm:ss");
+            lblHora.Refresh();
+            lblFecha.Text = DateTime.Now.ToLongDateString();
+            lblFecha.Refresh();
+        }
     }
 }

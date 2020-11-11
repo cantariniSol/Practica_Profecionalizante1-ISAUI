@@ -1,20 +1,21 @@
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.IU.InicioSesion.exe.config
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.IU.InicioSesion.exe
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.IU.InicioSesion.pdb
-E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.EntidadesDeNegocio.dll
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.LogicaDeNegocio.dll
-E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.EntidadesDeNegocio.pdb
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.AccesoDatos.dll
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.LogicaDeNegocio.pdb
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.AccesoDatos.pdb
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csprojAssemblyReference.cache
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.AlertaDeInisioSesionIncorrectos.resources
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Bienvenida.resources
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.CambioDeContraseña.resources
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Clientes.resources
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Compras.resources
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.InicioSesion.resources
-E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Manu.resources
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Menu.resources
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Productos.resources
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Properties.Resources.resources
-E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Proveedores.resources
+E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Proveedor.resources
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Reportes.resources
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Usuarios.resources
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Ventas.resources
@@ -23,56 +24,3 @@ E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaCo
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csproj.CopyComplete
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.exe
 E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.pdb
-E:\Escritorio\Desarrollo de Software\Segundo Año\Modelado de Sistemas\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.AlertaDeInisioSesionIncorrectos.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.IU.InicioSesion.exe.config
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.IU.InicioSesion.exe
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.IU.InicioSesion.pdb
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.LogicaDeNegocio.dll
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.AccesoDatos.dll
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.LogicaDeNegocio.pdb
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.AccesoDatos.pdb
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csprojAssemblyReference.cache
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.AlertaDeInisioSesionIncorrectos.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Bienvenida.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.CambioDeContraseña.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Clientes.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Compras.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.InicioSesion.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Manu.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Productos.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Properties.Resources.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Proveedores.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Reportes.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Usuarios.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Ventas.resources
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csproj.GenerateResource.cache
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csproj.CoreCompileInputs.cache
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csproj.CopyComplete
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.exe
-C:\Users\ramga\OneDrive\Escritorio\Trabajo final colombraro\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.pdb
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.IU.InicioSesion.exe.config
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.IU.InicioSesion.exe
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.IU.InicioSesion.pdb
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.LogicaDeNegocio.dll
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.AccesoDatos.dll
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.LogicaDeNegocio.pdb
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\bin\Debug\SistemaColombraro.AccesoDatos.pdb
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csprojAssemblyReference.cache
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.AlertaDeInisioSesionIncorrectos.resources
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Bienvenida.resources
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.CambioDeContraseña.resources
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Clientes.resources
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Compras.resources
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.InicioSesion.resources
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Manu.resources
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Productos.resources
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Properties.Resources.resources
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Proveedores.resources
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Reportes.resources
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Usuarios.resources
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.Ventas.resources
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csproj.GenerateResource.cache
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csproj.CoreCompileInputs.cache
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.WinForm.csproj.CopyComplete
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.exe
-C:\Users\ramga\OneDrive\Escritorio\asdhasjk\Practica_Profecionalizante1-ISAUI\SistemaColombraro\SistemaColombraro.IU.InicioSesion\obj\Debug\SistemaColombraro.IU.InicioSesion.pdb

@@ -10,13 +10,18 @@ using System.Windows.Forms;
 
 namespace SistemaColombraro.IU.InicioSesion
 {
-    public partial class Manu : Form
+    public partial class Proveedor : Form
     {
-        public Manu()
+        public Proveedor()
         {
             InitializeComponent();
         }
 
-       
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Menu m = new Menu();
+            this.Hide();
+            m.ShowDialog();
+        }
     }
 }

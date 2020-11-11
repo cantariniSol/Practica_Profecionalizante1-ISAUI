@@ -8,24 +8,22 @@ using System.Data;
 
 namespace SistemaColombraro.AccesoDatos
 {
-    public class CD_Conexion
+    class CD_Conexion
     {
-      
-            private SqlConnection Conexion = new SqlConnection("Server=LAPTOP-VAAP0H77;DataBase = Colombraro; Integrated Security=true");
+        private SqlConnection Conexion = new SqlConnection("Server=MARÍASOLCANTARI\\SQLEXPRESS;DataBase = Colombraro; Integrated Security=true");
 
-            public SqlConnection AbrirConexion()
-            {
-                if (Conexion.State == ConnectionState.Closed)
-                    Conexion.Open();
-                return Conexion;
-            }
+        public SqlConnection AbrirConexion()
+        {
+            if (Conexion.State == ConnectionState.Closed)
+                Conexion.Open();
+            return Conexion;
+        }
 
-            public SqlConnection CerrarConexion()
-            {
-                if (Conexion.State == ConnectionState.Open)
-                    Conexion.Close();
-                return Conexion;
-            }
-        
+        public SqlConnection CerrarConexion()
+        {
+            if (Conexion.State == ConnectionState.Open)
+                Conexion.Close();
+            return Conexion;
+        }
     }
 }

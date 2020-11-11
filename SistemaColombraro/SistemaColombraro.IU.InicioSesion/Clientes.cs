@@ -17,6 +17,16 @@ namespace SistemaColombraro.IU.InicioSesion
             InitializeComponent();
         }
 
-       
+        private void lblUser_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Menu m = new Menu();
+            this.Hide();
+            m.ShowDialog();
+        }
     }
 }

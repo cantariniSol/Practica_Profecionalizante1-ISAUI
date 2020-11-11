@@ -16,7 +16,7 @@ namespace SistemaColombraro.IU.InicioSesion
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Productos());
+            Application.Run(new InicioSesion());
         }
     }
 }

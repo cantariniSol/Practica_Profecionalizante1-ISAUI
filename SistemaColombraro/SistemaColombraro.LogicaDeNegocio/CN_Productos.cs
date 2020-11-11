@@ -18,7 +18,7 @@ namespace SistemaColombraro.LogicaDeNegocio
             tabla = objetoCD.Mostrar();
             return tabla;
         }
-        public void InsertarPRod( string categoria, string nombre, string precio, string stock, string codigo)
+        public void InsertarPRod(string categoria, string nombre, string precio, string stock, string codigo)
         {
             objetoCD.Insertar(categoria, nombre, Convert.ToInt32(precio), Convert.ToInt32(stock), Convert.ToInt32(codigo));
         }
@@ -31,6 +31,7 @@ namespace SistemaColombraro.LogicaDeNegocio
         {
             objetoCD.Eliminar(Convert.ToInt32(codigo));
         }
+
 
     }
 }
