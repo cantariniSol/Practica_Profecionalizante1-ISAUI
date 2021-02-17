@@ -1,0 +1,14 @@
+c:\users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\bin\Debug\Colombraro Gestion Stock.exe.config
+c:\users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\bin\Debug\Colombraro Gestion Stock.exe
+c:\users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\bin\Debug\Colombraro Gestion Stock.pdb
+c:\users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\obj\Debug\Colombraro Gestion Stock.csprojResolveAssemblyReference.cache
+c:\users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\obj\Debug\Colombraro_Gestion_Stock.panelLogin.resources
+c:\users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\obj\Debug\Colombraro_Gestion_Stock.Menu.resources
+c:\users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\obj\Debug\Colombraro_Gestion_Stock.Properties.Resources.resources
+c:\users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\obj\Debug\Colombraro Gestion Stock.csproj.GenerateResource.Cache
+c:\users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\obj\Debug\Colombraro Gestion Stock.exe
+c:\users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\obj\Debug\Colombraro Gestion Stock.pdb
+c:\users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\obj\Debug\Colombraro_Gestion_Stock.BasedDatostxt.resources
+C:\Users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\obj\Debug\Colombraro_Gestion_Stock.clientes.resources
+C:\Users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\obj\Debug\Colombraro_Gestion_Stock.comprastxt.resources
+C:\Users\lucia\onedrive\documentos\visual studio 2015\Projects\Colombraro Gestion Stock\Colombraro Gestion Stock\obj\Debug\Colombraro_Gestion_Stock.Stock.resources
